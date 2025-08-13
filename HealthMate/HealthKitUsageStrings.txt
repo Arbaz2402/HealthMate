@@ -1,0 +1,4 @@
+Add these Info.plist keys via Target > Info > Custom iOS Target Properties:
+- NSHealthShareUsageDescription: "We use Health data (steps, active energy, height, weight, age and sex) to calculate your daily calories and progress."
+- NSHealthUpdateUsageDescription: "Health data helps us personalize your dashboard and goals."
+

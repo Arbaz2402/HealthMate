@@ -1,0 +1,6 @@
+This is a placeholder note: Update Core Data model to include entities
+FoodEntry(id UUID, timestamp Date, name String, calories Double, protein Double, carbs Double, fat Double, mealType String)
+WeightLog(id UUID, timestamp Date, weightKg Double)
+DailySummary(id UUID, date Date, consumed Double, burned Double, net Double)
+
+
